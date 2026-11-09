@@ -2,7 +2,7 @@
 
 CS @ University of Florida · Founder & engineer at **Orbi Labs**
 
-I build software end to end and ship it to real users.
+I build software end to end and ship it to real users. **Portfolio: [zhue1.github.io](https://zhue1.github.io)**
 
 **Now building:** [Ora](https://oracoach.app), an AI training coach across lifting disciplines: powerlifting, bodybuilding, powerbuilding and general fitness (Flutter, Firebase, Cloud Functions, SQLite, Claude API). Built solo: 570+ merged pull requests and 1,200+ automated test files. The source is private; happy to walk through the architecture.
 
@@ -10,4 +10,4 @@ I build software end to end and ship it to real users.
 
 **Stack:** Python · Java · C++ · TypeScript · Dart · SQL · Firebase · Node.js · Flutter · React
 
-📫 imericzhu@gmail.com · [LinkedIn](https://linkedin.com/in/ezhu05)
+📫 imericzhu@gmail.com · [Portfolio](https://zhue1.github.io) · [LinkedIn](https://linkedin.com/in/ezhu05)
